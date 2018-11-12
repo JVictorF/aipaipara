@@ -1,0 +1,34 @@
+body{background-color: #F5F5F5;}
+nav{background-color: black; height: 100px;}
+.botao{margin-top: 20px;}
+.botao1{margin-bottom: 10px;}
+.botao2{margin-top: 10px;}
+.botao3{margin-top: 15%;}
+.cartao{height: 570px; margin-bottom: 20px; margin-top: 20px;}
+.cartao1{margin-bottom: 20px; margin-top: 20px; margin-left: 16px; margin-right: 16px; width: 193px;}
+.cartao2{margin-bottom: 20px; margin-top: 20px; margin-left: 16px; margin-right: 16px;}
+.coluna0{margin-top: 15px;}
+.coluna1{margin-bottom: 10px;}
+.cabecalho{margin-top: 32px;}
+.container0{margin-top: 20px; margin-bottom: 20px; background-color: white; height: 300px;}
+.container1{background-color: white; margin-top: 30px;}
+.dados1{font-size: 13px; color: grey;}
+.dados2{margin-top: 25px; text-align: right; margin-right: 20px;}
+.grande{font-size: 17px;}
+.icone1{height: 200px; margin-left: 80px;}
+.icone2{height: 190px; margin-top: 10px; margin-left: 75px;}
+.img0{height: 75px; margin-bottom: 20px;}
+.img1{height: 20px;}
+.img2{margin-top: 20px; margin-bottom: 20px; height: 260px;}
+.img3{height: 20px; margin-right: 5px; margin-bottom: 3px;}
+.img4{height: 100px}
+.img5{height: 460px;}
+.img6{height: 70px; margin-left: 18px; margin-top: 20px;}
+.link0{color: black;}
+.motivacao{font-size: 15px; margin-top: 65px;}
+.nome{margin-top: 40px}
+.nome2{display: inline; color: black;}
+.pequeno{font-size: 15px;}
+.titulo{margin-top: 20px; color: white;}
+.titulo1{font-size: 17px; margin-top: 10px;}
+.tudo1{margin-top: 30px;}
